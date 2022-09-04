@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Rest api",
+    "links": {
+      "codepen": "//api-zorov1.herokuapp.com",
+      "github": "//github.com/souzx17/zorov1api"
+    },
+    "description": "Simples rest api porém funcional."
+  },
+  {
+    "title": "Player music anti sad BRASIL",
+    "links": {
+      "codepen": "//player-atdp.vercel.app/",
+      "github": "//github.com/souzx17/player-musica"
+    },
+    "description": "Apenas uma brincadeira ultilizando Html, css e javascript"
+  }
+]

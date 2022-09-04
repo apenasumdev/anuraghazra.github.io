@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Web page bot",
+    "links": {
+      "demo": "https://souzx17.github.io/websitesimples",
+      "src": "https://github.com/anuraghazra/ParticleBrush"
+    },
+    "description": "Para divulgação do bot discord, whatsapp e ser editada como achar melhor."
+  },
+
+    {
+    "title": "Landing page Zoro",
+    "links": {
+      "demo": "https://page-zoro.vercel.app/",
+      "src": "https://github.com/souzx17/landing-page-anime-zoro"
+    },
+    "description": "Simples landgin page como tema princinpal Roronoa Zoro"
+  },
+  {
+    "title": "X17 APIS",
+    "links": {
+      "demo": "https://anuraghazra.github.io/X17 APIS",
+      "src": "https://github.com/souzx17"
+    },
+    "description": "Script rest api para whatsapp bot e discord bots."
+  }
+]
