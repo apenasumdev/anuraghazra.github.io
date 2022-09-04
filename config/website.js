@@ -1,11 +1,11 @@
 const meta = {
   // Metadata
-  siteTitle: 'Anurag Hazra - Creative Web Designer',
+  siteTitle: 'Vinicius Portfolio & Blog',
   siteDescription:
-    'Anurag Hazra - Creative frontEnd web developer who loves javascript and modern web technologies.',
+    'Portfoliiio e blog para compartilhar ideias, projetos e novidades.',
   siteTitleAlt: 'Anurag Hazra',
   siteShortName: 'Anurag Hazra',
-  siteUrl: 'https://anuraghazra.github.io', // No trailing slash!
+  siteUrl: 'https://viniciusfolio-one.vercel.app', // No trailing slash!
 };
 
 const social = {
@@ -17,11 +17,11 @@ const social = {
 const website = {
   ...meta,
   ...social,
-  disqusShortName: 'anuraghazra',
+  disqusShortName: 'viniciusfolio',
   googleAnalyticsID: 'UA-119972196-1',
   // Manifest
-  themeColor: '#6D83F2',
-  backgroundColor: '#6D83F2',
+  themeColor: '#e00000',
+  backgroundColor: '#e00000',
 };
 
 module.exports = website;
