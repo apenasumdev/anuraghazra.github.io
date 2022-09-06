@@ -1,5 +1,5 @@
 ---
-title: COMO OBOTER RESULTADO X17 APIS
+title: COMO OBTER RESULTADO X17 APIS
 date: 2022-09-04 14:16:26
 author: souzx17
 tags: ['javascript']
