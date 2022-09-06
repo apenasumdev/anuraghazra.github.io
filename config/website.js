@@ -1,17 +1,17 @@
 const meta = {
   // Metadata
-  siteTitle: 'Vinicius Portfolio & Blog',
+  siteTitle: 'Vinicius Souza - Portfolio & Blog',
   siteDescription:
-    'Portfoliiio e blog para compartilhar ideias, projetos e novidades.',
-  siteTitleAlt: 'Anurag Hazra',
-  siteShortName: 'Anurag Hazra',
-  siteUrl: 'https://viniciusfolio-one.vercel.app', // No trailing slash!
+    'Souzx17 - Portfolio & Blog para atualizar seguidores sobre novidades de apis e outros projetos.',
+  siteTitleAlt: 'souzx17',
+  siteShortName: 'souzx17',
+  siteUrl: 'https://viniciusfolio.vercel.app', // No trailing slash!
 };
 
 const social = {
-  siteLogo: `src/static/logo.svg`,
+  siteLogo: `src/static/logo.png`,
   siteBanner: `${meta.siteUrl}/images/social-banner.png`,
-  twitter: '@anuraghazru',
+  twitter: '@ss',
 };
 
 const website = {
