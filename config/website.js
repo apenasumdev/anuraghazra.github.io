@@ -5,7 +5,7 @@ const meta = {
     'Souzx17 - Portfolio & Blog para atualizar seguidores sobre novidades de apis e outros projetos.',
   siteTitleAlt: 'souzx17',
   siteShortName: 'souzx17',
-  siteUrl: 'https://viniciusfolio.vercel.app', // No trailing slash!
+  siteUrl: 'https://viniciusfolio.tk', // No trailing slash!
 };
 
 const social = {
